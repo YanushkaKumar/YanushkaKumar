@@ -144,4 +144,3 @@ For Docker/Kubernetes-based repos, check the `/deploy` folder — it contains `D
 
 ---
 
-> If you'd like, I can also create a ready-to-paste `README.md` version that uses your exact repo names, links, and project descriptions. Tell me which repos to include and I will tailor it further.
